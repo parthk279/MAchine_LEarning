@@ -5,4 +5,4 @@ Here is a collection of datasets and alogorithms I worked upon while I taught my
 
 * Dimensionality Reduction
 * Natural Language Processing
-* Regression
+* Regression/ Decision Tree
